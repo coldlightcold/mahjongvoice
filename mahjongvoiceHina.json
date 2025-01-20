@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/pon.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/pon.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/kan.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/kan.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/chi.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/chi.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/richi.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/richi.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/ron.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/ron.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/tsumo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/coldlightcold/mahjongvoice/main/mahjongvoice_hina/tsumo.mp3"}
+  }
+}
